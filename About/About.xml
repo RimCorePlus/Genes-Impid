@@ -1,10 +1,17 @@
 ﻿<ModMetaData>
 	<packageId>coreplus.genes.impid</packageId>
-	<name>[CorePlus] Genes - Impid</name>
+	<name>[RCP] Genes - Impid</name>
 	<author>boomer</author>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
+	<url>https://github.com/RimCorePlus/Genes-Impid</url>
+	<modDependencies>
+		<li>
+			<packageId>Ludeon.RimWorld.Biotech</packageId>
+			<displayName>Biotech</displayName>
+		</li>
+	</modDependencies>
 	<loadAfter>
 		<li>coreplus.genes</li>
 	</loadAfter>
