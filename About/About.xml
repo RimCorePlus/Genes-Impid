@@ -1,6 +1,6 @@
 ﻿<ModMetaData>
-	<packageId>boomer.modname</packageId>
-	<name>mod name</name>
+	<packageId>coreplus.genes.impid</packageId>
+	<name>[CorePlus] Genes - Impid</name>
 	<author>boomer</author>
 	<description />
 	<supportedVersions>
@@ -16,7 +16,9 @@
 	<loadBefore />
 	<loadBeforeByVersion />
 	<forceLoadBefore />
-	<loadAfter />
+	<loadAfter>
+		<li>coreplus.genes</li>
+	</loadAfter>
 	<loadAfterByVersion />
 	<forceLoadAfter />
 	<incompatibleWith />
