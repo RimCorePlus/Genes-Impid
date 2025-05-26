@@ -1,5 +1,5 @@
 ﻿<ModMetaData>
-	<packageId>coreplus.genes.impid</packageId>
+	<packageId>RCP.Genes.Impid</packageId>
 	<name>[RCP] Genes - Impid</name>
 	<author>boomer</author>
 	<supportedVersions>
@@ -13,6 +13,6 @@
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>coreplus.genes</li>
+		<li>RCP.Genes</li>
 	</loadAfter>
 </ModMetaData>
