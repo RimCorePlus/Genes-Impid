@@ -1,7 +1,9 @@
 <Patch>
-    <Operation Class="VFECore.PatchOperationToggableSequence">
-        <enabled>false</enabled>
-        <label>[Biotech] Impid settlements only spawn in desert biomes</label>
+    <Operation Class="ModSettingsFramework.PatchOperationModOption">
+        <defaultValue>false</defaultValue>
+        <label>Impid settlements only spawn in desert biomes</label>
+        <id>RCP_GenesImpidFactionPlacement</id>
+        <category>RCP_GenesImpidPatches</category>
         <operations>
             <!--search for modExtensions, add everything if not-->
             <li Class="PatchOperationConditional">

@@ -1,0 +1,8 @@
+<Defs>
+    <ModSettingsFramework.ModOptionCategoryDef>
+        <defName>RCP_GenesImpidPatches</defName>
+        <label>Misc. Patches</label>
+        <modSettingsName>[RCP] Genes - Impid</modSettingsName>
+        <modPackageSettingsID>RCP.Genes.Impid</modPackageSettingsID>
+    </ModSettingsFramework.ModOptionCategoryDef>
+</Defs>
